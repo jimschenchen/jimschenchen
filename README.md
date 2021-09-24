@@ -1,10 +1,16 @@
 ### Hello World 👋
 
 ![jimschenchen](src/jimschenchen.PNG)
+[probe](https://user-images.githubusercontent.com/26497506/134733651-e4f09efb-b9f8-49f7-9dba-ed33ee0d2f6f.gif)
+
+
+
 <!--
 **jimschenchen/jimschenchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you start!
+
+ed:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
