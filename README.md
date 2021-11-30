@@ -13,14 +13,14 @@
 </p>
 
 ## Menu
-  - [🤜🤛 Languages](#-Languages-)
-  - [🤜🤛 Database](#-Database-)
-  - 
+  - [Languages](#-Languages-)
+  - [Database](#-Database-)
+
+
 ## Summary
 [![](https://github-readme-stats.vercel.app/api?username=jimschenchen)]()
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=jimschenchen)]()
+<!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=jimschenchen)]() -->
 [![](https://github-readme-streak-stats.herokuapp.com/?user=jimschenchen)](https://jimschenchen.tech/)
-[![]()]()
 
 ## Webiste
 [![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.jimschenchen.com)
