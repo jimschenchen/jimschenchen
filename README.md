@@ -13,8 +13,8 @@
 </p>
 
 ## Menu
-  - [Languages](#-Languages-)
-  - [Database](#-Database-)
+  - [Languages](#Languages)
+  - [Database](#Database)
 
 
 ## Summary
