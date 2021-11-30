@@ -12,22 +12,21 @@
   <img src="https://user-images.githubusercontent.com/26497506/134734310-4f8ce7d9-95ac-4acb-a8a1-a97c81174611.gif" height="100"/>
 </p>
 
-[![jimschenchen's github stats](https://github-readme-stats.vercel.app/api?username=jimschenchen)](https://github.com/jimschenchen)
-
 ## Menu
   - [🤜🤛 Languages](#-Languages-)
   - [🤜🤛 Database](#-Database-)
-
-## Interests
-[![](https://img.shields.io/badge/macOS-Big%20Sur-cd48a5?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur)
-[![](https://img.shields.io/badge/IDE-VSCode-1f9cf0?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com)
-[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org)
-[![](https://img.shields.io/badge/-Vercel-333333?style=flat-square&logo=vercel&logoColor=ffffff)](https://vercel.com)
-[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com)
-[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org)
+  - 
+## Summary
+[![](https://github-readme-stats.vercel.app/api?username=jimschenchen)]()
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=jimschenchen)]()
+[![](https://github-readme-streak-stats.herokuapp.com/?user=jimschenchen)]()
+[![]()]()
 
 ## Webiste
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.jimschenchen.com)
+[![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)]()
+[![]()]()
+[![]()]()
 
 ## Languages
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
@@ -98,46 +97,90 @@
 [![]()]()
 [![]()]()
 
-## In Progress
-[![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
-
 ## Working Enviroment
 [![](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)]()
 [![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)]()
-[![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+[![](https://img.shields.io/badge/Windows11-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)]()
 [![](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)]()
 [![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]()
 [![](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)]()
-[![]()]()
-[![]()]()
+[![](https://img.shields.io/badge/Raspberry%20Pi-EE0000?style=for-the-badge&logo=RaspberryPi&logoColor=white)]()
+[![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)]()
+
+## Workspace Spec
+[![](https://img.shields.io/badge/NVIDIA-GTX3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]()
+[![](https://img.shields.io/badge/AMD-Ryzen_7_5800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)]()
+[![](https://img.shields.io/badge/razer-laptop-00FF00?style=for-the-badge&logo=razer&logoColor=white)]()
+[![](	https://img.shields.io/badge/Apple-laptop-999999?style=for-the-badge&logo=apple&logoColor=white)]()
+
+## IDE
+[![](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)]()
+[![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+[![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()
+[![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)]()
+[![](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)]()
+[![](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)]()
+[![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)]()
+[![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
+[![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)]()
+[![](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)]()
+[![](https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F)]()
+[![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)]()
+[![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)]()
 [![]()]()
 [![]()]()
 [![]()]()
 [![]()]()
 [![]()]()
 
+## Effeciency
+[![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()
+[![](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)]()
+[![]()]()
+[![]()]()
+[![]()]()
 
+## Design 
+[![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
+[![](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)]()
+[![](https://img.shields.io/badge/Adobe-After%20Effects-CF96FD?style=for-the-badge&logo=Adobe-After-Effects&labelColor=393665&logoWidth=15)]()
+[![](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15)]()
+[![](https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&labelColor=2f2f5b&logoWidth=15)]()
+[![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=whit)]()
+[![](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)]()
+[![](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)]()
+[![](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)]()
+[![](https://img.shields.io/badge/Cinema%204D-000000?style=for-the-badge&logo=cinema4d&logoColor=white)]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
 
-## Interset in
+## Learning List
 [![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]()
 [![](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)]()
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
+[![]([![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]())]()
 [![]()]()
 [![]()]()
 [![]()]()
 [![]()]()
 
+## Game
+[![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]()
+[![](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)]()
+[![](https://img.shields.io/badge/Battle.net-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white)]()
+[![](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)]()
+[![](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)]()
+[![]()]()
+[![]()]()
+[![]()]()
+
+## Cryptocurrency
+[![](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)]()
+[![](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)]()
+[![](https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white)]()
+[![]()]()
+[![]()]()
+[![]()]()
