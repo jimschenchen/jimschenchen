@@ -19,13 +19,13 @@
 ## Summary
 [![](https://github-readme-stats.vercel.app/api?username=jimschenchen)]()
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=jimschenchen)]()
-[![](https://github-readme-streak-stats.herokuapp.com/?user=jimschenchen)]()
+[![](https://github-readme-streak-stats.herokuapp.com/?user=jimschenchen)](https://jimschenchen.tech/)
 [![]()]()
 
 ## Webiste
-[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.jimschenchen.com)
-[![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)]()
-[![]()]()
+[![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.jimschenchen.com)
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://www.probejfury.com/blog/)
+[![](https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white)]()
 [![]()]()
 
 ## Languages
@@ -116,7 +116,7 @@
 [![](	https://img.shields.io/badge/Apple-laptop-999999?style=for-the-badge&logo=apple&logoColor=white)]()
 
 ## IDE
-[![](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)]()
+[![](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=xcode&logoColor=white)]()
 [![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()
 [![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)]()
@@ -150,6 +150,7 @@
 [![](https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&labelColor=2f2f5b&logoWidth=15)]()
 [![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=whit)]()
 [![](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)]()
+[![](https://img.shields.io/badge/Adobe%20Audition-76B900?style=for-the-badge&logo=adobeaudition&logoColor=white)]()
 [![](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)]()
 [![](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)]()
 [![](https://img.shields.io/badge/Cinema%204D-000000?style=for-the-badge&logo=cinema4d&logoColor=white)]()
@@ -161,7 +162,7 @@
 ## Learning List
 [![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]()
 [![](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)]()
-[![]([![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]())]()
+[![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
 [![]()]()
 [![]()]()
 [![]()]()
