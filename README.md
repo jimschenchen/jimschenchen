@@ -22,11 +22,10 @@
 <!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=jimschenchen)]() -->
 [![](https://github-readme-streak-stats.herokuapp.com/?user=jimschenchen)](https://jimschenchen.tech/)
 
-## Webiste
+## My Webiste
 [![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.jimschenchen.com)
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://www.probejfury.com/blog/)
-[![](https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white)]()
-[![]()]()
+[![](https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white)](https://jimschenchen.tech/)
 
 ## Languages
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
