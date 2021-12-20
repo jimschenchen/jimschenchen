@@ -12,11 +12,11 @@
   <img src="https://user-images.githubusercontent.com/26497506/134734310-4f8ce7d9-95ac-4acb-a8a1-a97c81174611.gif" height="100"/>
 </p>
 
-## Menu
+<!-- ## Menu
   - [Languages](#Languages)
   - [Database](#Database)
 
-
+ -->
 ## Summary
 [![](https://github-readme-stats.vercel.app/api?username=jimschenchen)]()
 <!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=jimschenchen)]() -->
@@ -167,7 +167,7 @@
 [![]()]()
 [![]()]()
 
-## Game
+<!-- ## Game
 [![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]()
 [![](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)]()
 [![](https://img.shields.io/badge/Battle.net-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white)]()
@@ -175,7 +175,7 @@
 [![](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)]()
 [![]()]()
 [![]()]()
-[![]()]()
+[![]()]() -->
 
 ## Cryptocurrency
 [![](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)]()
